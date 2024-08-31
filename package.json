@@ -1,0 +1,19 @@
+{
+  "name": "amazon-price-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.9.14",
+    "puppeteer": "^23.2.1",
+    "sqlite3": "^5.1.7"
+  }
+}
